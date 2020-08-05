@@ -1,0 +1,531 @@
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Geometry/Meshes/CubeMaterial.uasset" 0
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Geometry/Meshes/TemplateFloor.uasset" 2
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 3
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 4
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/ToLevel2_BP.uasset" 5
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/ToLevel2_BP.uasset" 6
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/LevelAdvancer_BP.uasset" 7
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/SideScrollerOverview.uasset" 8
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 9
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 10
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 11
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 12
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Animations/ThirdPersonRun.uasset" 13
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 14
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 15
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 16
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 18
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 19
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 20
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_RockMesh_M.uasset" 21
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_RockMesh_N.uasset" 22
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_Rock.uasset" 23
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Rock.uasset" 24
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/BP_Rock.uasset" 25
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Materials/Shot_Material.uasset" 26
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Materials/Bouncing_Mat.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 28
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 29
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 30
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 31
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/MaterialSphere.uasset" 32
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/BP_Shot.uasset" 33
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Death_HUD.uasset" 34
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 35
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 36
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 37
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 38
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 39
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 40
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 41
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 42
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 43
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 44
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 45
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 46
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 47
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 48
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 49
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 50
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 51
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 52
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Score_HUD.uasset" 53
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/WInGame_HUD.uasset" 54
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" 55
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 56
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Materials/Block_Material.uasset" 57
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Meshes/CubeMaterial.uasset" 58
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Meshes/Ramp_Mesh.uasset" 59
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Basic_Wall.uasset" 60
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Pillar_50x500.uasset" 61
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Wall_400x300.uasset" 62
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Wall_400x400.uasset" 63
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Wall_500x500.uasset" 64
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 65
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 66
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Collapse02.uasset" 67
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Explosion01.uasset" 68
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Explosion02.uasset" 69
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Fire01.uasset" 70
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Fire_Sparks01.uasset" 71
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Light01.uasset" 72
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Light01_Cue.uasset" 73
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Light02.uasset" 74
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Light02_Cue.uasset" 75
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Smoke01.uasset" 76
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Starter_Birds01.uasset" 77
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Starter_Wind05.uasset" 78
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Starter_Wind06.uasset" 79
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Steam01.uasset" 80
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Explosion_Cue.uasset" 81
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Burst_M.uasset" 82
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/M_Burst.uasset" 83
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 84
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 85
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 86
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 87
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 88
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 89
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 90
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 91
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/P_Explosion.uasset" 92
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 93
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 94
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 95
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Bush_D.uasset" 96
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Bush_N.uasset" 97
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_Bush.uasset" 98
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Bush.uasset" 99
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Chair_M.uasset" 100
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Chair_N.uasset" 101
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_Chair.uasset" 102
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Couch.uasset" 103
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Glass.uasset" 104
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Door_M.uasset" 105
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Door_N.uasset" 106
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_Door.uasset" 107
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Door.uasset" 108
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 109
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 110
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 111
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Shelf_M.uasset" 112
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Shelf_N.uasset" 113
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_Shelf.uasset" 114
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Shelf.uasset" 115
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Basic_Floor.uasset" 116
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Stairs.uasset" 117
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Cone.uasset" 118
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 119
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 120
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Pipe.uasset" 121
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 122
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 123
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Plane.uasset" 124
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Torus.uasset" 125
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Trim.uasset" 126
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 127
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 128
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 129
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Tube.uasset" 130
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 131
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 132
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 133
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 134
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 135
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 136
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 137
+"../../../Engine/Content/BasicShapes/Cone.uasset" 138
+"../../../Engine/Content/BasicShapes/Cube.uasset" 139
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 140
+"../../../Engine/Content/BasicShapes/Plane.uasset" 141
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 142
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 143
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 144
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 145
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 146
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 147
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 148
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 149
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 150
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 151
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 152
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 153
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 154
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 155
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 156
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 157
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 158
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 159
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 160
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 161
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 162
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 163
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 164
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 165
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 166
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 167
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 168
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 169
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 170
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 171
+"../../../Engine/Content/EditorResources/S_Note.uasset" 172
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 173
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 174
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 175
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 176
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 177
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 178
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 179
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 180
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 181
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 182
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 183
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 184
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 185
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 186
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 187
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 192
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 193
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 194
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 195
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 196
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 197
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 198
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 199
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 200
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 201
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 202
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 203
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 204
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 205
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 206
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 207
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 208
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 209
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 210
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 211
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 212
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 213
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 215
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 216
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 217
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 218
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 219
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 220
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 221
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 222
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 223
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 224
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 225
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 226
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 227
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 228
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 229
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 230
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 231
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 232
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 233
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 234
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 235
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 236
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 237
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 238
+"../../../Engine/Content/EngineResources/Black.uasset" 239
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 240
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 241
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 242
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 243
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 244
+"../../../Engine/Content/EngineSounds/Master.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 247
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 248
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 249
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 250
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 251
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 252
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 254
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 255
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 256
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 257
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 258
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 259
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 260
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 261
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 262
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 263
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 266
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 269
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 270
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 271
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 272
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 273
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 274
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 275
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 276
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 277
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 278
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 279
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 280
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 281
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 282
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 283
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 284
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 285
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 286
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 287
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 288
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 289
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 290
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 291
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 292
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 293
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 294
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 295
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 296
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 297
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 299
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 300
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 301
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 302
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 303
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Materials/Coin_Material.uasset" 304
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/BP_Coin.uasset" 305
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Cube.uasset" 306
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/BP_Block.uasset" 307
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 308
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 309
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 310
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 311
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 312
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 313
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 314
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 315
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 316
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Maps/Level1_BuiltData.uasset" 317
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 318
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 319
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/Geometry/Meshes/1M_Cube.uasset" 320
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Collapse01.uasset" 321
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Starter_Music01.uasset" 322
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Maps/Level1.umap" 323
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/ToLevel3_BP.uasset" 324
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Maps/Level2.umap" 325
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 326
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/BP_Arrows.uasset" 327
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/ToLevel4_BP.uasset" 328
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Maps/Level3.umap" 329
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Blueprints/WinGame_BP.uasset" 330
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/SideScrollerBP/Maps/Level4.umap" 331
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 332
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 333
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 334
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 335
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 336
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 337
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 338
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 339
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 340
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 341
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 342
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 343
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_AssetPlatform.uasset" 344
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 345
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 346
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 347
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 348
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 349
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 350
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 351
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 352
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Maps/Advanced_Lighting.umap" 353
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 354
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_MacroVariation.uasset" 355
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 356
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 357
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 358
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 359
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 360
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Metal_Copper.uasset" 361
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Statue_M.uasset" 362
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Statue_N.uasset" 363
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 364
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Floor_400x400.uasset" 365
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 366
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Chair.uasset" 367
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_Statue.uasset" 368
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Statue.uasset" 369
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_TableRound_M.uasset" 370
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_TableRound_N.uasset" 371
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_TableRound.uasset" 372
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_TableRound.uasset" 373
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Maps/Minimal_Default.umap" 374
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Fire01_Cue.uasset" 375
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 376
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 377
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 378
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Water_N.uasset" 379
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 380
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 381
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/P_Fire.uasset" 382
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 383
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Smoke01_Cue.uasset" 384
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/P_Smoke.uasset" 385
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 386
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 387
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Spark_Core.uasset" 388
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/M_Spark.uasset" 389
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/P_Sparks.uasset" 390
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 391
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Steam01_Cue.uasset" 392
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/P_Steam_Lit.uasset" 393
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 394
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Lamp_M.uasset" 395
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Lamp_N.uasset" 396
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_Lamp.uasset" 397
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 398
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 399
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 400
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 401
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 402
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 403
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 404
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 405
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 406
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 407
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 408
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 409
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 410
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 411
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 412
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 413
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 414
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 415
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 416
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 417
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 418
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 419
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 420
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 421
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 422
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 423
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 424
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 425
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 426
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 427
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 428
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 429
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 430
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 431
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Gradinet_01.uasset" 432
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 433
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 434
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 435
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 436
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 437
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 438
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 439
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 440
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 441
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 442
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 443
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 444
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 445
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 446
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 447
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 448
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 449
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 450
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 451
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 452
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 453
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 454
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Ground_Grass.uasset" 455
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 456
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 457
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 458
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 459
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 460
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Ground_Moss.uasset" 461
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 462
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 463
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Metal_Gold.uasset" 464
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 465
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Metal_Rust.uasset" 466
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 467
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 468
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Metal_Steel.uasset" 469
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 470
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 471
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 472
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 473
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 474
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 475
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 476
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 477
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Rock_Slate.uasset" 478
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 479
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 480
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 481
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 482
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 483
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 484
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 485
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 486
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 487
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 488
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 489
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Tech_Panel.uasset" 490
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Water_Lake.uasset" 491
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Water_M.uasset" 492
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Water_Ocean.uasset" 493
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 494
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 495
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 496
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 497
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 498
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 499
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 500
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 501
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Wood_Oak.uasset" 502
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 503
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 504
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Wood_Pine.uasset" 505
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 506
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 507
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 508
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Wall_400x200.uasset" 509
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 510
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 511
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Collapse_Cue.uasset" 512
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 513
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 514
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 515
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 516
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Frame_M.uasset" 517
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Textures/T_Frame_N.uasset" 518
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/Materials/M_Frame.uasset" 519
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_CornerFrame.uasset" 520
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_DoorFrame.uasset" 521
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_GlassWindow.uasset" 522
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_PillarFrame.uasset" 523
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_PillarFrame300.uasset" 524
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Props/SM_WindowFrame.uasset" 525
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 526
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Shapes/Shape_Sphere.uasset" 527
+"../../../../../../Unreal Engine Files/COMP313Assignment1/Content/StarterContent/Maps/StarterMap.umap" 528
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 529
+"../../../Engine/Content/Maps/Entry.umap" 530
