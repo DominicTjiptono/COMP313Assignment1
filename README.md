@@ -6,8 +6,7 @@
 ## Simple Side Scroller Game
 
 The game is created using Unreal Engine version 4.25. To ensure that the game runs smoothly, upgrade the version of Unreal Engine in your computer to
-version 4.25 before playing the game. Alternatively, the executable file to run the game can be downloaded from 
-https://github.com/DominicTjiptono/COMP313Assignment1/blob/master/COMP313Assignment1.exe.
+version 4.25 before playing the game. Next, choose a level you want to play at. You can choose from Level1, Level2, Level3, and Level4.
 
 ### Game Description
 
